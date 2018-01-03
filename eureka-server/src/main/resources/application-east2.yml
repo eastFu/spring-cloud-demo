@@ -1,0 +1,15 @@
+server:
+  port: 8124
+
+spring:
+  application:
+    name: eureka-server
+
+eureka:
+  instance:
+    hostname: east2
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+    serviceUrl:
+      defaultZone: http://east1:8123/eureka/
