@@ -1,5 +1,5 @@
-# spring-cloud-demo
-spring cloud demo
+# spring cloud 学习笔记
+
 
 
 # 采坑
@@ -8,3 +8,5 @@ spring cloud demo
 - 2. 全链路追踪： zippa dependencies 图片不显示？
 - 3. 练习过程中请使用JDK1.8+
 - 4. hystrix dashboard 的无法监控？
+
+
