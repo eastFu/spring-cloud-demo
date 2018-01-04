@@ -8,6 +8,7 @@ spring:
 eureka:
   instance:
     hostname: east1
+    perfer-ip-address: false
   client:
     registerWithEureka: false
     fetchRegistry: false
