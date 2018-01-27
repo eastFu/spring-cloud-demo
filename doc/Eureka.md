@@ -23,7 +23,6 @@ maven依赖：
 	spring:
 	  application:
 	    name: eureka-server
-	
 	eureka:
 	  instance:
 	    hostname: east1
