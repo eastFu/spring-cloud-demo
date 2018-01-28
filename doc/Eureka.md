@@ -15,7 +15,6 @@ maven依赖：
 
 @EnableEurekaServer
 
-
 ### 3 配置文件
     server:
 	  port: 8123
