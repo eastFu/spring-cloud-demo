@@ -14,7 +14,7 @@
 - 7. 权限框架的选择？
 - 8. rpc调用的实现原理 
 - 9. 浅谈zookeeper和eureka
-- 9. 全链路追踪的原理
-- 10. spring cloud 和Alibaba dubbo 的区别
-- 11. spring cloud 的未来
+- 10. 全链路追踪的原理
+- 11. spring cloud 和Alibaba dubbo 的区别
+- 12. spring cloud 的未来
 
